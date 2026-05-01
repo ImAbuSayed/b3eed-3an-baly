@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> يا طيف حبٍ في الخيال يميل
+> أبحث عنكِ بين كل النجوم
+> لتشفي جرحاً بقلبي العليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
