@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - B3eed 3an Baly
+
+This log tracks the cryptographic history and versioning for the song **B3eed 3an Baly** (b3eed-3an-baly).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T00:20:51.675309 | `v1` | `8b0670915766e6b5bca2188c0ea6b33056f94b1791a5bf599d2dde14a4690644` | `b0235369d0e48b734fe81bafd01a193c38d4c4ada0c74c45ad72a7e8d598f743` | `2026-05-09_b3eed-3an-baly-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
